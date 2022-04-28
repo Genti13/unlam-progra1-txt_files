@@ -1,0 +1,5 @@
+40733281|Alan Gentile|24|13/11/1997
+12345678|El Genti|24|12/11/1997
+87654321|Pedro Pica Piedras|66|15/02/1880
+11223344|Nombre Apellido|33|12/01/1234
+99887766|Sombrero Seleccionador|99|01/15/1950
